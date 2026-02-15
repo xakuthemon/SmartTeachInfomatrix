@@ -1,0 +1,7 @@
+{
+  "name": "SmartTeach - AI Student Platform",
+  "description": "A comprehensive student dashboard with AI-powered learning, psychological support, and performance tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
